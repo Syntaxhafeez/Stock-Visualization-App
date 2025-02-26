@@ -9,6 +9,10 @@ A beautiful and interactive stock data visualization application built with Reac
 - Responsive design that works on all devices
 - Modern and clean user interface
 
+## Live Preview
+
+Check out the app live: [Stock Visualization App](https://stock-visualization-app.vercel.app/)
+
 ## Setup Instructions
 
 1. Clone the repository
@@ -35,3 +39,8 @@ A beautiful and interactive stock data visualization application built with Reac
 - `src/components/` - React components
 - `src/types.ts` - TypeScript type definitions
 - `src/App.tsx` - Main application component
+
+## Connect with Me
+
+- **Follow me on Instagram:** [@syntaxhafeez](https://www.instagram.com/syntaxhafeez/)
+- **Connect on LinkedIn:** [Mohd Hafeez](https://linkedin.com/in/mohd-hafeez)
